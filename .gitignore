@@ -1,0 +1,5 @@
+node_modules
+nodemon.json
+cfg
+*.env
+.github
